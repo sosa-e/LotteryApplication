@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 import java.util.Random;
-
+// this is a test comment
 public class LotteryApplication {
     private int[] lottery = new int[5];
     // Function lottery generates a one-dimensional, five unit array
